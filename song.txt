@@ -37,3 +37,5 @@ Am I just paranoid?
 Or am I just stoned?
 
 some content for commit1 feature
+
+SOME CONTENT FOR COMMIT2 FEAUTER
